@@ -1,0 +1,39 @@
+body {
+    background-color:  #e9183b;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: beige;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    text-shadow: 5px 0 10px rgba(0, 0, 0, .6) ;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+
+}
+
+th {
+    border: 2px rgb(252, 199, 201) solid;
+    border-radius: 7px;
+    font-weight: bold;
+    box-shadow: 5px 0 10px rgba(0, 0, 0, .6);
+    
+
+}
+
+img {
+    width: 200px;
+    border-image: space;
+   
+
+}
+
+div {
+    display: flex;
+}
+.ocultar{
+    display: none;
+}
